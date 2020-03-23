@@ -10,7 +10,7 @@
 
   Petit bonus : afficher un prénom aleatoirement parmis ceux du tableau.
 
-## EXERCICE 2 = Créer la base de donnée permettant de stocker les valeurs contenues dans $user
+## EXERCICE 2 = Créer la base de données permettant de stocker les valeurs contenues dans $user
 ### Consignes
 Se connecter au serveur mySql => <code>mysql -u root -p</code>
 - Créer la database nommée Facebook
