@@ -1,4 +1,4 @@
-## EXERCICE 1 = Facebook
+## EXERCICE 1 = Facebook - Ecrire la fonction qui permettrait de savoir combien de personnes ont liké un post
 ### Consignes
 #### À partir d'un tableau $users contenant une série de prénoms : 
 - Afficher les phrases suivantes suivant si il y a 0, 1, 2 ou > 2 users présents dans le array $users :
