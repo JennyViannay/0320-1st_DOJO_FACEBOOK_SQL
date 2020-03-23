@@ -1,7 +1,7 @@
 ## EXERCICE 1 = Facebook
 ### Consignes
-À partir d'un tableau $users contenant une série de prénoms : 
-- Afficher les phrases suivantes suivant si il y a 0, 1, 2 ou > 2 users présents dans le array $users :
+##### À partir d'un tableau $users contenant une série de prénoms : 
+##### Afficher les phrases suivantes suivant si il y a 0, 1, 2 ou > 2 users présents dans le array $users :
 
 * "Soyez le premier à aimer cette publication", = 0
 * "Simon aime cette publication", = 1
