@@ -21,5 +21,5 @@ Se connecter au serveur mySql => <code>mysql -u root -p</code>
 Concepts
 Tests successifs,
 Fonctions,
-Manipulation (simple) de talbeaux
+Manipulation (simple) de talbeaux,
 Intro SQL
